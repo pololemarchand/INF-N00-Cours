@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ProjetPartie1
 {
@@ -107,7 +104,7 @@ namespace ProjetPartie1
             Console.WriteLine(true);//Argument ==> un boolèen
             Console.WriteLine("True");//Argument ==> une chaîne
         }
-        static void MainDenis() // pour tester, mettre Main et changer le main dans la version d'origine
+        static void Main_denis() // pour tester, mettre Main et changer le main dans la version d'origine
         {
             Console.WriteLine("Je suis dans le main");
             Chapitre1_Denis.Polo();
