@@ -104,7 +104,7 @@ namespace ProjetPartie1
             Console.WriteLine(true);//Argument ==> un boolèen
             Console.WriteLine("True");//Argument ==> une chaîne
         }
-        static void Main_denis() // pour tester, mettre Main et changer le main dans la version d'origine
+        static void Main() // pour tester, mettre Main et changer le main dans la version d'origine
         {
             Console.WriteLine("Je suis dans le main");
             Chapitre1_Denis.Polo();

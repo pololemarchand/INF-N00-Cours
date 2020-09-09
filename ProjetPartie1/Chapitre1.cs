@@ -2,7 +2,7 @@
 
 class Chapitre1 {
 
-    static void Main() {
+    static void Main_origin() {
         /*
         Ceci est un exemple de commentaires multi-lignes.
         Les délimiteurs sont /* et... l'inverse!
