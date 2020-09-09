@@ -2,12 +2,11 @@
 
 class Chapitre1 {
 
-    static void Main() {
-
-        /*
-        Ceci est un exemple de commentaires multi-lignes.
-        Les délimiteurs sont /* et... l'inverse!
-        */
+    static void Polo() {
+                /*
+         Ceci est un exemple de commentaires multi-lignes.
+         Les délimiteurs sont /* et... l'inverse!
+         */
 
         //Ceci est un commentaire sur une seule ligne.
         //Les deux barres obliques font de tout ce qui suit
@@ -99,7 +98,11 @@ class Chapitre1 {
         Console.WriteLine(1);//Argument ==> un entier
         Console.WriteLine(true);//Argument ==> un boolèen
         Console.WriteLine("True");//Argument ==> une chaîne
-
+    }
+    static void Main() {
+        Console.WriteLine("Je suis dans le main");
+        Chapitre1.Polo();
+        
     }//Fin du Main
 
 
