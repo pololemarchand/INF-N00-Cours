@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\bin\Release\ProjetPartie1.exe.config
+C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\bin\Release\ProjetPartie1.exe
+C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\bin\Release\ProjetPartie1.pdb
+C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Release\ProjetPartie1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Release\ProjetPartie1.exe
+C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Release\ProjetPartie1.pdb

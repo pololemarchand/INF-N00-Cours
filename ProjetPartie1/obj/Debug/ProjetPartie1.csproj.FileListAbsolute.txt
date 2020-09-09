@@ -1,0 +1,14 @@
+C:\Users\polol\source\repos\ProjetPartie1\bin\Debug\ProjetPartie1.exe.config
+C:\Users\polol\source\repos\ProjetPartie1\bin\Debug\ProjetPartie1.exe
+C:\Users\polol\source\repos\ProjetPartie1\bin\Debug\ProjetPartie1.pdb
+C:\Users\polol\source\repos\ProjetPartie1\obj\Debug\ProjetPartie1.csprojAssemblyReference.cache
+C:\Users\polol\source\repos\ProjetPartie1\obj\Debug\ProjetPartie1.csproj.CoreCompileInputs.cache
+C:\Users\polol\source\repos\ProjetPartie1\obj\Debug\ProjetPartie1.exe
+C:\Users\polol\source\repos\ProjetPartie1\obj\Debug\ProjetPartie1.pdb
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\bin\Debug\ProjetPartie1.exe.config
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\bin\Debug\ProjetPartie1.exe
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\bin\Debug\ProjetPartie1.pdb
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.csprojAssemblyReference.cache
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.csproj.CoreCompileInputs.cache
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.exe
+C:\Users\polol\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.pdb
