@@ -113,6 +113,15 @@ namespace ProjetPartie1
             A.Affiche();
             Console.WriteLine("A carre? " + A.TestCarre());
 
+            Matrice B = new MatriceAleatoire(4, 4);
+            B.Affiche();
+            Console.WriteLine("B carre? " + B.TestCarre());
+
+            Console.WriteLine("B transposee");
+            B.Transpose();
+            B.Affiche();
+            
+
             Console.WriteLine("Tapez une touche pour terminer");
             Console.ReadKey();
 
