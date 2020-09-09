@@ -19,3 +19,10 @@ C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCI
 C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.exe
 C:\Users\User\OneDrive - Collège Jean-de-Brébeuf\SESSION 3 AUTOMNE 2020\PRINCIPES ET MÉTHODES INFORMATIQUES\INF-N00 Cours\ProjetPartie1\obj\Debug\ProjetPartie1.pdb
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\bin\Debug\ProjetPartie1.exe.config
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\bin\Debug\ProjetPartie1.exe
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\bin\Debug\ProjetPartie1.pdb
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\obj\Debug\ProjetPartie1.csprojAssemblyReference.cache
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\obj\Debug\ProjetPartie1.csproj.CoreCompileInputs.cache
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\obj\Debug\ProjetPartie1.exe
+C:\Users\lemadeni\Source\Repos\pololemarchand\INF-N00-Cours\ProjetPartie1\obj\Debug\ProjetPartie1.pdb
