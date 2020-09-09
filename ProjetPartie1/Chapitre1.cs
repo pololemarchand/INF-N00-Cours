@@ -3,7 +3,6 @@
 class Chapitre1 {
 
     static void Main() {
-
         /*
         Ceci est un exemple de commentaires multi-lignes.
         Les délimiteurs sont /* et... l'inverse!
