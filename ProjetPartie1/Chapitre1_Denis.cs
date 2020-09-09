@@ -106,8 +106,12 @@ namespace ProjetPartie1
         }
         static void Main() // pour tester, mettre Main et changer le main dans la version d'origine
         {
-            Console.WriteLine("Je suis dans le main");
-            Chapitre1_Denis.Polo();
+            Console.WriteLine("Calcul matriciel");
+            //Chapitre1_Denis.Polo();
+
+            Matrice A = new Matrice(3,5);
+            A.Affiche();
+            Console.WriteLine("A carre? " + A.TestCarre());
 
             Console.WriteLine("Tapez une touche pour terminer");
             Console.ReadKey();
