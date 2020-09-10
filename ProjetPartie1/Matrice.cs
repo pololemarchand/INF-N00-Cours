@@ -35,16 +35,29 @@ namespace ProjetPartie1
             }
         }
 
-        public void Transpose()
+        public static Matrice Transpose(Matrice A)
         {
-            double[,]  transpose = new double[_mat.GetUpperBound(1)+1, _mat.GetUpperBound(0)+1];
+            Matrice transpose = new Matrice(A._mat.GetUpperBound(1)+1, A._mat.GetUpperBound(0)+1);
 
-            for (int i = 0; i <= _mat.GetUpperBound(0); i++)
+            for (int i = 0; i <= A._mat.GetUpperBound(0); i++)
             {
-                for (int j = 0; j <= _mat.GetUpperBound(1); j++)
-                    transpose[j,i] = _mat[i, j];
+                for (int j = 0; j <= A._mat.GetUpperBound(1); j++)
+                    transpose._mat[j,i] = A._mat[i, j];
             }
-            _mat = transpose;
+            return transpose;
+        }
+
+        public static Matrice operator *(double x, Matrice A)
+        {
+            Matrice R = new Matrice(A._mat.GetUpperBound(0)+1, A._mat.GetUpperBound(1)+1);
+
+            for (int i = 0; i <= A._mat.GetUpperBound(0); i++)
+            {
+                for (int j = 0; j <= A._mat.GetUpperBound(1); j++)
+                    R._mat[i,j] = A._mat[i, j]*x;
+            }
+
+            return R;
         }
     }
 
@@ -57,10 +70,21 @@ namespace ProjetPartie1
             {
                 for (int j = 0; j <= _mat.GetUpperBound(1); j++)
                 {
-                    base._mat[i, j] = rnd.Next(-10, 10);
+                    base._mat[i, j] = rnd.Next(0, 100);
                 }
             }
         }
     }
-    
+
+    public class MatriceIdentite : Matrice
+    {
+        public MatriceIdentite(int n) : base(n, n)
+        {
+            for (int i = 0; i <= _mat.GetUpperBound(0); i++)
+            {
+                base._mat[i, i] = 1;
+            }
+        }
+    }
+
 }

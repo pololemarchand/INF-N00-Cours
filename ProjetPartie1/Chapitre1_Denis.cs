@@ -106,21 +106,45 @@ namespace ProjetPartie1
         }
         static void Main() // pour tester, mettre Main et changer le main dans la version d'origine
         {
-            Console.WriteLine("Calcul matriciel");
+            Console.WriteLine("Petit module de calcul matriciel");
+            Console.WriteLine("--------------------------------");
             //Chapitre1_Denis.Polo();
 
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Une matrice A de 3 lignes et 5 colonnes");
             Matrice A = new Matrice(3,5);
             A.Affiche();
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Test si elle est carrée");
             Console.WriteLine("A carre? " + A.TestCarre());
 
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Une matrice carrée B de dimension 4");
             Matrice B = new MatriceAleatoire(4, 4);
             B.Affiche();
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Test si elle est carrée");
             Console.WriteLine("B carre? " + B.TestCarre());
 
-            Console.WriteLine("B transposee");
-            B.Transpose();
-            B.Affiche();
-            
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Bt la transposée de B");
+            Matrice Bt = Matrice.Transpose(B);
+            Bt.Affiche();
+
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("C identité");
+            Matrice C = new MatriceIdentite(5);
+            C.Affiche();
+
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("D = 4*C");
+            Matrice D = 4*C;
+            D.Affiche();
+
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("E = 10*B");
+            Matrice E = 10 * B;
+            E.Affiche();
 
             Console.WriteLine("Tapez une touche pour terminer");
             Console.ReadKey();
