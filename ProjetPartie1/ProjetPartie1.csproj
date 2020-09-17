@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="Chapitre1.cs" />
     <Compile Include="Chapitre1_Denis.cs" />
+    <Compile Include="ManipulationChaines.cs" />
     <Compile Include="Matrice.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

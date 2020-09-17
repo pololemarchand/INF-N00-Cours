@@ -146,6 +146,8 @@ namespace ProjetPartie1
             Matrice E = 10 * B;
             E.Affiche();
 
+            ManipulationChaines.TestWriteLine();
+
             Console.WriteLine("Tapez une touche pour terminer");
             Console.ReadKey();
 
